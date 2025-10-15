@@ -41,6 +41,7 @@ This project demonstrates understanding of:
 ## 🚀 Getting Started
 
 ### Clone, Install. & Run
+
 git clone https://github.com/ranzivillaruz/vue-task-app.git
 cd vue-task-app
 npm install
